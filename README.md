@@ -10,7 +10,7 @@ Assigned Program Id: BPFLoaderUpgradeab1e11111111111111111111111
 
 Deployed via Solana Playground IDE https://beta.solpg.io/
 
-We can interact with our project from the client side.
+We can interact with our project from the client side. Frontend Code located at https://github.com/rohit-sekhri51/Restaurants-Reviews-Frontend
 Open your web browser and navigate to http://localhost:3000 to access the DApp.
 Connect your Solana wallet (e.g., Phantom) to the DApp.
 Then fill the form on your browser that lets you post a review of the restaurants - title, description, location and a rating.
